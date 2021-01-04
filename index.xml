@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phillip Doehle</title>
+    <link>https://pdoehle.github.io/</link>
+    <description>Recent content on Phillip Doehle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://pdoehle.github.io/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
